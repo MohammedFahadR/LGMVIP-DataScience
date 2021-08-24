@@ -1,2 +1,2 @@
 # LGMVIP-DataScience
-LetsGrowMore
+This is my work as Data science intern at LetsGrowMore.
